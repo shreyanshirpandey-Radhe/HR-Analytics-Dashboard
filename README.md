@@ -14,11 +14,9 @@ Average Monthly Income:74.07k
 
 # Dashboard
 ### Page 1
-![HR-Analytics-Dashboard]
-(HR_img1.png)
+![HR-Analytics-Dashboard](HR_img1.png)
 
 ### Page 2
-![HR-Analytics-Dashboard]
-(HR_img2.png)
+![HR-Analytics-Dashboard](HR_img2.png)
 
 
