@@ -2,8 +2,8 @@
 Interactive HR Analytics Dashboard built using Power BI to analyze employee data and identify important HR insights.
 
 # Tools Used
-Power BI
-Python
+- Power BI
+- Python
 
 # Key Insights
 - Total Employees:201
